@@ -1,1 +1,1 @@
-For supplementary files, please refer to the code download package.
+For supplementary files, please refer to the download raw file.
